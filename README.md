@@ -23,5 +23,7 @@ Akurasi pada data uji sederhana kami: sekitar **90%**.
 - Proyek ini hanya sebagai pembelajaran dasar dan tidak ditujukan untuk penggunaan produksi.
 - Dataset tidak representatif untuk dunia nyata karena ukurannya kecil.
 
-## Petunjuk
-Ikuti petunjuk sesuai isi dari file Car Type Classification.ipynb
+## Petunjuk Penggunaan
+Seluruh proses dijalankan menggunakan **Google Colab**
+1. Buka File > Upload untuk import file **Car Type Classification.ipynb**
+2. Ikuti petunjuk sesuai isi dari file **Car Type Classification.ipynb**
