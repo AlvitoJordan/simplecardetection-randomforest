@@ -13,6 +13,7 @@ Kami menggunakan **56 citra mobil**, terdiri dari:
 - 25 gambar mobil **Sedan**
 - 25 gambar mobil **SUV**
 - 6 gambar testing
+
 Citra diperoleh dari sumber bebas dan tidak memiliki resolusi seragam. Seluruh gambar telah di-*resize* dan diproses agar sesuai untuk input model.
 
 ## Hasil
