@@ -1,7 +1,7 @@
 ## Klasifikasi Jenis Citra Mobil dengan Menggunakan Random Forest
 Proyek ini merupakan tugas sederhana mata kuliah *Computer Vision* yang bertujuan untuk mengklasifikasikan jenis mobil berdasarkan citra menggunakan algoritma **Random Forest**. Dua kategori mobil yang diklasifikasikan adalah **Sedan** dan **SUV**.
 
-## 👥 Kelompok
+## Kelompok
 - Ketua Kelompok: Alvito Jordan
 - Anggota:
   - Evander
